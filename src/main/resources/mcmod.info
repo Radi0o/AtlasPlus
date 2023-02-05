@@ -1,0 +1,16 @@
+[
+{
+  "modid": "atlasplus",
+  "name": "Atlas+",
+  "description": "A Mod that adds features to the Atlas Network",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zffu"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
